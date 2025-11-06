@@ -7,7 +7,7 @@ remappings = [
 ]
 dotenv = ".env"
 
-ffi = true
+# ffi = true
 
 
 # remapping = ["@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/"]
